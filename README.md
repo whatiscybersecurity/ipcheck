@@ -1,6 +1,6 @@
 # ipcheck
 
-A simple Python tool to check IP addresses using the AbuseIPDB API.
+A simple Python tool to check IP addresses using the AbuseIPDB API. You can do domains and more, but as of 8/11/24, this is the start of a bigger project I have in mind. I will update this tool with more features as soon as timely possible.
 
 ## Description
 
