@@ -1,7 +1,7 @@
 #    (
 #     \
 #      )
-# ##-------->           Simple "GUI" to interact with abuseipdb's API 
+# ##-------->           Simple tool to interact with abuseipdb's API and pull IP address information. Handy for threat intel and security workflow automation.
 #      )                https://github.com/whatiscybersecurity    
 #     /
 #    (
