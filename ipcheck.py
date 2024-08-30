@@ -1,7 +1,7 @@
 #    (
 #     \
 #      )
-# ##-------->           Simple "GUI" to interact with abuseipdb's API 
+# ##-------->           Simple Console-Based App to interact with abuseipdb's API 
 #      )                https://github.com/whatiscybersecurity    
 #     /
 #    (
